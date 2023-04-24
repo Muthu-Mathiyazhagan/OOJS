@@ -13,3 +13,5 @@ function createPerson (name) {
 // person1.greetings()
 
 createPerson('Muthu').greetings()
+// Output :
+// My Name is Muthu
